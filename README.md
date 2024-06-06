@@ -10,7 +10,7 @@ Hello! I am Trương Ái Nga, a passionate developer with a deep interest in bac
 - 🌱 I’m currently learning Spring boot, Spring Sercurity
 - 👯 I’m looking to collaborate on BankingApp
 - 🤔 I’m looking for help with Spring boot, Spring Sercurity, ReactJS
-- 💬 Ask me about Android, firebase, Java...
+- 💬 Ask me about Android, Firebase, Java...
 - 📫 How to reach me: ainga01012004@gmail.com
 - ⚡ Fun fact: [An Interesting Fact About You].
 
