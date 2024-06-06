@@ -7,13 +7,12 @@
 Hello! I am Trương Ái Nga, a passionate developer with a deep interest in backend development and Java web development. I love exploring new technologies and working on creative projects. My GitHub profile showcases some of the projects and contributions I've made in the field.
 
 - 🔭 I’m currently working on BankingApp
-- 🌱 I’m currently learning Spring boot, Spring Sercurity
-- 👯 I’m looking to collaborate on BankingApp
-- 🤔 I’m looking for help with Spring boot, Spring Sercurity, ReactJS
+- 📚 I’m currently learning Spring Boot, Spring Security
+- 🤝 I’m looking to collaborate on BankingApp
+- 🙋‍♂️ I’m looking for help with Spring Boot, Spring Security, ReactJS
 - 💬 Ask me about Android, Firebase, Java...
-- 📫 How to reach me: ainga01012004@gmail.com
-- ⚡ Fun fact: [An Interesting Fact About You].
-
+- 📧 How to reach me: ainga01012004@gmail.com
+- ✨ Fun fact: <3
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
