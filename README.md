@@ -19,7 +19,6 @@ Here are some of the technologies and tools I work with:
 
 ## Languages
 - C++
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 - C#
 - Java
 - Python
