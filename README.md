@@ -22,6 +22,8 @@ Here are some of the technologies and tools I work with:
 - C#
 - Java
 - Python
+- html
+- css
 
 ## Frameworks
 - Spring
