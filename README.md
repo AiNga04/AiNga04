@@ -1,10 +1,9 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 # 👋 Hello! Welcome to Trương Ái Nga GitHub Profile
 
 ## A passionate fullstack developer from Viet Nam
 
-<a href="#!">
-  <img src="https://www.pcmsit.com/wp-content/uploads/2022/05/2.gif" style="width: 800px; height: 300px;" alt="Web Development GIF">
-</a>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif">
 
 ## 📜 About Me
 
@@ -32,34 +31,45 @@ Here are some of the technologies and tools I work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square)
 
 ## Frameworks
-- Spring
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat-square)
 
 ## Databases
 
-- SQLite
-- MSSQL
-- MySQL
-- Redis
-
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat-square)
 ## Tools & Platforms
 
-- Docker
-- Firebase
-- Git
-- Linux
-- Android
-- AWS
-- Postman
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat-square)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&style=flat-square)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white&style=flat-square)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat-square)
+![DBeaver](https://img.shields.io/badge/DBeaver-1B1B1B?style=for-the-badge&logo=dbeaver&logoColor=white&style=flat-square)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&style=plastic)
 
 ## Blogs
 
 - [NgaDev](https://github.com/AiNga04)
 
 ## 📈 GitHub Stats
+<p>
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=AiNga04&show_icons=true&locale=en&layout=compact"
+        alt="AiNga04" />
+</p>
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AiNga04&show_icons=true&theme=vue)
 
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AiNga04&" alt="AiNga04" />
+</p>
 
 ## 📂 Featured Projects
 
