@@ -2,6 +2,10 @@
 
 ## A passionate fullstack developer from Viet Nam
 
+<a href="#!">
+  <img src="https://www.pcmsit.com/wp-content/uploads/2022/05/2.gif" style="width: 800px; height: 300px;" alt="Web Development GIF">
+</a>
+
 ## 📜 About Me
 
 Hello! I am Trương Ái Nga, a passionate developer with a deep interest in fullstack development and Java web development. I love exploring new technologies and working on creative projects. My GitHub profile showcases some of the projects and contributions I've made in the field.
