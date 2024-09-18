@@ -1,4 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 # 👋 Hello! Welcome to Trương Ái Nga GitHub Profile
 
 ## A passionate fullstack developer from Viet Nam
@@ -16,6 +17,7 @@ Hello! I am Trương Ái Nga, a passionate developer with a deep interest in ful
 - 💬 Ask me about Android, Firebase, Java...
 - 📧 How to reach me: ainga01012004@gmail.com
 - ✨ Fun fact: <3
+
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
@@ -31,6 +33,7 @@ Here are some of the technologies and tools I work with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square)
 
 ## Frameworks
+
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat-square)
 
 ## Databases
@@ -39,6 +42,7 @@ Here are some of the technologies and tools I work with:
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat-square)
+
 ## Tools & Platforms
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=flat-square)
@@ -59,34 +63,52 @@ Here are some of the technologies and tools I work with:
 - [NgaDev](https://github.com/AiNga04)
 
 ## 📈 GitHub Stats
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=AiNga04&show_icons=true&locale=en&layout=compact"
-        alt="AiNga04" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AiNga04&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AiNga04&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="AiNga04" />
 </p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AiNga04&show_icons=true&theme=vue)
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AiNga04&" alt="AiNga04" />
+<p align="center"><img
+                src="https://github-readme-stats.vercel.app/api?username=AiNga04&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                alt="mdazfar2" height="170" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiNga04&theme=dark&hide_border=false" alt="AiNga04" />
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
+</p>
+
 
 ## 📂 Featured Projects
 
 ### [BankingApp]
+
 Description: ...
 
-[Update later]()
+[Repository Link](https://github.com/AiNga04/5_BankingApps)
 
 ### [identify_service]
+
 Description: ...
 
 [Repository Link](https://github.com/AiNga04/SpringBoot/tree/main/identify_service)
 
+### [Web]
+
+Description: ...
+
+[Repository Link](https://github.com/AiNga04/9_aiNgaShop)
+
 ## 🤝 Connect with Me
 
-- [LinkedIn]()
-- [Facebook](https://www.facebook.com/profile.php?id=100055585185477)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100055585185477)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
