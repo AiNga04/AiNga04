@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif">
 
-<p align="center">
+<p align="lefy">
     <img src="https://komarev.com/ghpvc/?username=AiNga04&label=Profile%20views&color=0e75b6&style=flat" 
-        alt="AiNga04" style="border: 2px solid #0e75b6; border-radius: 8px; padding: 4px;" />
+        alt="AiNga04"/>
 </p>
 
 ## 📜 About Me
