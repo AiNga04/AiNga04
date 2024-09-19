@@ -6,10 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif">
 
-<p align="lefy">
-    <img src="https://komarev.com/ghpvc/?username=AiNga04&label=Profile%20views&color=0e75b6&style=flat" 
-        alt="AiNga04"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=AiNga04&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/AiNga04?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AiNga04?style=social)
 
 ## 📜 About Me
 
