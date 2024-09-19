@@ -6,6 +6,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif">
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AiNga04&label=Profile%20views&color=0e75b6&style=flat" 
+        alt="AiNga04" style="border: 2px solid #0e75b6; border-radius: 8px; padding: 4px;" />
+</p>
+
 ## 📜 About Me
 
 Hello! I am Trương Ái Nga, a passionate developer with a deep interest in fullstack development and Java web development. I love exploring new technologies and working on creative projects. My GitHub profile showcases some of the projects and contributions I've made in the field.
