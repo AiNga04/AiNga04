@@ -3,13 +3,14 @@
 # 👋 Hello! Welcome to Trương Ái Nga GitHub Profile
 
 ## A passionate fullstack developer from Viet Nam
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&height=30&lines=Software+Engineer;Full+Stack+Developer;Cross+Platform+Mobile+Developer;)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AiNga04&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/AiNga04?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AiNga04?style=social)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&height=30&lines=Software+Engineer;Full+Stack+Developer;Cross+Platform+Mobile+Developer;)](https://git.io/typing-svg)
 
 ## 📜 About Me
 
@@ -126,7 +127,7 @@ Description: ...
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nga-tr%C6%B0%C6%A1ng-bb62202ab/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100055585185477)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&heiht="25")](https://www.linkedin.com/in/nga-tr%C6%B0%C6%A1ng-bb62202ab/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square&heiht="25")](https://www.facebook.com/profile.php?id=100055585185477)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
