@@ -10,8 +10,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/AiNga04?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/AiNga04?style=social)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&height=30&lines=Software+Engineer;Full+Stack+Developer;Cross+Platform+Mobile+Developer;)](https://git.io/typing-svg)
-
 ## 📜 About Me
 
 Hello! I am Trương Ái Nga, a passionate developer with a deep interest in fullstack development and Java web development. I love exploring new technologies and working on creative projects. My GitHub profile showcases some of the projects and contributions I've made in the field.
@@ -48,6 +46,7 @@ Here are some of the technologies and tools I work with:
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=flat-square" alt="SQL Server Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square" alt="MySQL Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat-square" alt="Redis Badge" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB Badge" height="25px">
 
 ## Tools & Platforms
 
@@ -65,6 +64,11 @@ Here are some of the technologies and tools I work with:
 <img src="https://img.shields.io/badge/DBeaver-1B1B1B?style=for-the-badge&logo=dbeaver&logoColor=white&style=flat-square" alt="DBeaver Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="Git" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" title="Bootstrap" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/DataGrip-282C34?logo=datagrip&logoColor=20C994" title="DataGrip" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/XAMPP-282C34?logo=xampp&logoColor=FB7A24" title="XAMPP" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/PyCharm-1F6FEB?logo=pycharm&logoColor=FFD700" title="PyCharm" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=F7941E" title="Eclipse" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" title="Node.js" height="25px">
 
 ## Blogs
 
@@ -84,7 +88,7 @@ Here are some of the technologies and tools I work with:
                 src="https://github-readme-stats.vercel.app/api?username=AiNga04&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
                 alt="mdazfar2" height="170" /></p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiNga04&theme=dracula&hide_border=false" alt="AiNga04"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiNga04&theme=dark&hide_border=false" alt="AiNga04" />
 </p>
 
 <p align="center">
@@ -97,7 +101,6 @@ Here are some of the technologies and tools I work with:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AiNga04&theme=dracula"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AiNga04&theme=dracula"/>
 </div>
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -117,7 +120,7 @@ Description: ...
 
 Description: ...
 
-[Repository Link](https://github.com/AiNga04/SpringBoot/tree/main/identify_service)
+[Repository Link](https://github.com/AiNga04/identify_service)
 
 ### [Web]
 
@@ -127,7 +130,7 @@ Description: ...
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&heiht="25")](https://www.linkedin.com/in/nga-tr%C6%B0%C6%A1ng-bb62202ab/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square&heiht="25")](https://www.facebook.com/profile.php?id=100055585185477)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nga-tr%C6%B0%C6%A1ng-bb62202ab/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100055585185477)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
