@@ -38,7 +38,8 @@ Here are some of the technologies and tools I work with:
 
 ## Frameworks
 
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat-square" alt="Spring Badge" height="25px">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat-square" alt="Spring Badge" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square" alt="React Badge" height="25px" >&nbsp;
 
 ## Databases
 
@@ -46,14 +47,14 @@ Here are some of the technologies and tools I work with:
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=flat-square" alt="SQL Server Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square" alt="MySQL Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat-square" alt="Redis Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB Badge" height="25px">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB Badge" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL Badge" height="25px"> &nbsp;
 
 ## Tools & Platforms
 
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&style=plastic" alt="WebStorm Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=flat-square" alt="Docker Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&style=flat-square" alt="Firebase Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat-square" alt="Git Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat-square" alt="Linux Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=flat-square" alt="Android Badge" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS Badge" height="25px"> &nbsp;
@@ -68,8 +69,9 @@ Here are some of the technologies and tools I work with:
 <img src="https://img.shields.io/badge/XAMPP-282C34?logo=xampp&logoColor=FB7A24" title="XAMPP" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/PyCharm-1F6FEB?logo=pycharm&logoColor=FFD700" title="PyCharm" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=F7941E" title="Eclipse" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" title="Node.js" height="25px">
-
+<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" title="Node.js" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&style=flat-square" alt="Postman Badge" height="25px"> &nbsp;
+ 
 ## Blogs
 
 - [NgaDev](https://github.com/AiNga04)
@@ -110,9 +112,27 @@ Here are some of the technologies and tools I work with:
 
 ## 📂 Featured Projects
 
+### [9_aiNgaShop]
+
+Description: Website selling phones
+
+[Repository Link](https://github.com/AiNga04/9_aiNgaShop)
+
+### [bootstrap-demo]
+
+Description: Website selling courses
+
+[Repository Link](https://github.com/AiNga04/bootstrap-demo)
+
+### [movie-zone]
+
+Description: Website to watch movies
+
+[Repository Link](https://github.com/AiNga04/movie-zone)
+
 ### [BankingApp]
 
-Description: ...
+Description: banking application
 
 [Repository Link](https://github.com/AiNga04/5_BankingApps)
 
@@ -122,15 +142,11 @@ Description: ...
 
 [Repository Link](https://github.com/AiNga04/identify_service)
 
-### [Web]
-
-Description: ...
-
-[Repository Link](https://github.com/AiNga04/9_aiNgaShop)
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nga-tr%C6%B0%C6%A1ng-bb62202ab/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100055585185477)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/yourprofile)
+[![Profile](https://img.shields.io/badge/Profile-4CAF50?style=for-the-badge&logo=about.me&logoColor=white&style=flat-square)](https://ainga04.github.io/profile/)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
