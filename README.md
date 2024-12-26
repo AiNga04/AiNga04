@@ -79,38 +79,38 @@ Here are some of the technologies and tools I work with:
 ## 📂 Featured Projects
 
 <div align="center">
- <a href="https://github.com/AiNga04/9_aiNgaShop">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=9_aiNgaShop&theme=merko&title_color=4CAF50&text_color=FFFFFF&icon_color=F1C40F&bg_color=1B1F23&border_color=4CAF50&border_radius=15" />
+  <a href="https://github.com/AiNga04/9_aiNgaShop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=9_aiNgaShop&theme=merko&title_color=4CAF50&text_color=FFFFFF&icon_color=F1C40F&bg_color=1B1F23&border_color=4CAF50&border_radius=15&cache_seconds=3600" />
   </a>
   <a href="https://github.com/AiNga04/bootstrap-demo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=bootstrap-demo&theme=radical&title_color=FFD700&text_color=EAECEE&icon_color=1ABC9C&bg_color=0D1117&border_color=FF4500&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=bootstrap-demo&theme=radical&title_color=FFD700&text_color=EAECEE&icon_color=1ABC9C&bg_color=0D1117&border_color=FF4500&border_radius=15&cache_seconds=3600" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://github.com/AiNga04/movie-zone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=movie-zone&theme=synthwave&title_color=FA70F8&text_color=EAECEE&icon_color=F6E05E&bg_color=2D2A55&border_color=FA70F8&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=movie-zone&theme=synthwave&title_color=FA70F8&text_color=EAECEE&icon_color=F6E05E&bg_color=2D2A55&border_color=FA70F8&border_radius=15&cache_seconds=3600" />
   </a>
   <a href="https://github.com/AiNga04/profile-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile-2&theme=dracula&title_color=FF5555&text_color=F8F8F2&icon_color=50FA7B&bg_color=282A36&border_color=BD93F9&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile-2&theme=dracula&title_color=FF5555&text_color=F8F8F2&icon_color=50FA7B&bg_color=282A36&border_color=BD93F9&border_radius=15&cache_seconds=3600" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://github.com/AiNga04/profile">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile&theme=gruvbox&title_color=E74C3C&text_color=FFFFFF&icon_color=F39C12&bg_color=282828&border_color=E74C3C&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile&theme=gruvbox&title_color=E74C3C&text_color=FFFFFF&icon_color=F39C12&bg_color=282828&border_color=E74C3C&border_radius=15&cache_seconds=3600" />
   </a>
   <a href="https://github.com/AiNga04/5_BankingApps">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=5_BankingApps&theme=tokyonight&title_color=79C0FF&text_color=FFFFFF&icon_color=3498DB&bg_color=0D1117&border_color=79C0FF&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=5_BankingApps&theme=tokyonight&title_color=79C0FF&text_color=FFFFFF&icon_color=3498DB&bg_color=0D1117&border_color=79C0FF&border_radius=15&cache_seconds=3600" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
- <a href="https://github.com/AiNga04/7_Figma-3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=7_Figma-3&theme=onedark&title_color=E06C75&text_color=DCDCDC&icon_color=61AFEF&bg_color=21252B&border_color=56B6C2&border_radius=15" />
+  <a href="https://github.com/AiNga04/7_Figma-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=7_Figma-3&theme=onedark&title_color=E06C75&text_color=DCDCDC&icon_color=61AFEF&bg_color=21252B&border_color=56B6C2&border_radius=15&cache_seconds=3600" />
   </a>
   <a href="https://github.com/AiNga04/6_Figma">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=6_Figma&theme=onedark&title_color=E06C75&text_color=DCDCDC&icon_color=61AFEF&bg_color=21252B&border_color=56B6C2&border_radius=15" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=6_Figma&theme=onedark&title_color=E06C75&text_color=DCDCDC&icon_color=61AFEF&bg_color=21252B&border_color=56B6C2&border_radius=15&cache_seconds=3600" />
   </a>
 </div>
 
