@@ -2,7 +2,7 @@
 
 # 👋 Hello! Welcome to Trương Ái Nga GitHub Profile
 
-## A passionate fullstack developer from Viet Nam
+## A passionate front-end developer from Viet Nam
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif">
 
@@ -12,13 +12,13 @@
 
 ## 📜 About Me
 
-Hello! I am Trương Ái Nga, a passionate developer with a deep interest in fullstack development and Java web development. I love exploring new technologies and working on creative projects. My GitHub profile showcases some of the projects and contributions I've made in the field.
+Hello!, I'm Truong Ai Nga, a passionate front-end developer who loves crafting beautiful and functional web experiences. Always eager to learn and grow in the ever-evolving tech world. My GitHub profile showcases some of the projects and contributions I've made in the field.
 
-- 🔭 I’m currently working on BankingApp
-- 📚 I’m currently learning Spring Boot, Spring Security
-- 🤝 I’m looking to collaborate on BankingApp
-- 🙋‍♂️ I’m looking for help with Spring Boot, Spring Security, ReactJS
-- 💬 Ask me about Android, Firebase, Java...
+- 🔭 I’m currently working on Website selling phones
+- 📚 I’m currently learning React JS, Node JS, Spring Boot, Spring Security
+- 🤝 I’m looking to collaborate on Website selling phones
+- 🙋‍♂️ I’m looking for help with Spring Boot, Spring Security, ReactJS, Node JS
+- 💬 Ask me about Android, Firebase, Java, HTML, CSS(SCSS), JS, Bootstrap...
 - 📧 How to reach me: ainga01012004@gmail.com
 - ✨ Fun fact: <3
 
@@ -76,6 +76,44 @@ Here are some of the technologies and tools I work with:
 
 - [NgaDev](https://github.com/AiNga04)
 
+## 📂 Featured Projects
+
+<div align="center">
+ <a href="https://github.com/AiNga04/9_aiNgaShop">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=9_aiNgaShop&theme=merko&title_color=4CAF50&text_color=FFFFFF&icon_color=F1C40F&bg_color=1B1F23&border_color=4CAF50&border_radius=15" />
+  </a>
+  <a href="https://github.com/AiNga04/bootstrap-demo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=bootstrap-demo&theme=radical&title_color=FFD700&text_color=EAECEE&icon_color=1ABC9C&bg_color=0D1117&border_color=FF4500&border_radius=15" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/AiNga04/movie-zone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=movie-zone&theme=synthwave&title_color=FA70F8&text_color=EAECEE&icon_color=F6E05E&bg_color=2D2A55&border_color=FA70F8&border_radius=15" />
+  </a>
+  <a href="https://github.com/AiNga04/profile-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile-2&theme=dracula&title_color=FF5555&text_color=F8F8F2&icon_color=50FA7B&bg_color=282A36&border_color=BD93F9&border_radius=15" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/AiNga04/profile">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile&theme=gruvbox&title_color=E74C3C&text_color=FFFFFF&icon_color=F39C12&bg_color=282828&border_color=E74C3C&border_radius=15" />
+  </a>
+  <a href="https://github.com/AiNga04/5_BankingApps">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=5_BankingApps&theme=tokyonight&title_color=79C0FF&text_color=FFFFFF&icon_color=3498DB&bg_color=0D1117&border_color=79C0FF&border_radius=15" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+ <a href="https://github.com/AiNga04/7_Figma-3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=7_Figma-3&theme=onedark&title_color=E06C75&text_color=DCDCDC&icon_color=61AFEF&bg_color=21252B&border_color=56B6C2&border_radius=15" />
+  </a>
+  <a href="https://github.com/AiNga04/6_Figma">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=6_Figma&theme=onedark&title_color=E06C75&text_color=DCDCDC&icon_color=61AFEF&bg_color=21252B&border_color=56B6C2&border_radius=15" />
+  </a>
+</div>
+
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AiNga04&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
@@ -109,38 +147,6 @@ Here are some of the technologies and tools I work with:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
 </p>
-
-## 📂 Featured Projects
-
-### [9_aiNgaShop]
-
-Description: Website selling phones
-
-[Repository Link](https://github.com/AiNga04/9_aiNgaShop)
-
-### [bootstrap-demo]
-
-Description: Website selling courses
-
-[Repository Link](https://github.com/AiNga04/bootstrap-demo)
-
-### [movie-zone]
-
-Description: Website to watch movies
-
-[Repository Link](https://github.com/AiNga04/movie-zone)
-
-### [BankingApp]
-
-Description: banking application
-
-[Repository Link](https://github.com/AiNga04/5_BankingApps)
-
-### [identify_service]
-
-Description: ...
-
-[Repository Link](https://github.com/AiNga04/identify_service)
 
 ## 🤝 Connect with Me
 
