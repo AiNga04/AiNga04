@@ -142,6 +142,12 @@ Here are some of the technologies and tools I work with:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AiNga04&theme=dracula"/>
 </div>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AiNga04&theme=onestar&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
