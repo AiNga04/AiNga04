@@ -22,55 +22,111 @@ Hello!, I'm Truong Ai Nga, a passionate front-end developer who loves crafting b
 - 📧 How to reach me: ainga01012004@gmail.com
 - ✨ Fun fact: <3
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-Here are some of the technologies and tools I work with:
+### 💻 Programming Languages
 
-## Languages
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-square" alt="Java" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat-square" alt="C#" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat-square" alt="Python" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat-square" alt="C++" height="25px"> &nbsp;
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat-square" alt="C++ Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=sharp&logoColor=white&style=flat-square" alt="C# Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-square" alt="Java Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat-square" alt="Python Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat-square" alt="HTML Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat-square" alt="CSS Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square" alt="JavaScript Badge" height="25px"> &nbsp;
+### 🌐 Foundational Web Technologies
 
-## Frameworks
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat-square" alt="HTML5" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat-square" alt="CSS3" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white&style=flat-square" alt="SASS" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind CSS" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/DOM-000000?style=for-the-badge&logoColor=white&style=flat-square" alt="DOM" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Web%20Components-29ABE2?style=for-the-badge&logo=webcomponents&logoColor=white&style=flat-square" alt="Web Components" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Responsive%20Design-4285F4?style=for-the-badge&logo=google&logoColor=white&style=flat-square" alt="Responsive Design" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Accessibility-FF6D01?style=for-the-badge&logo=accessibility&logoColor=white&style=flat-square" alt="Web Accessibility" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square" alt="ES6+" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&style=flat-square" alt="JSON" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=flat-square" alt="REST API" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Web%20Storage-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&style=flat-square" alt="Web Storage" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Web%20Workers-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&style=flat-square" alt="Web Workers" height="25px"> &nbsp;
+<!-- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=flat-square" alt="jQuery" height="25px"> &nbsp; -->
 
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat-square" alt="Spring Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white&style=flat-square" alt="React Badge" height="25px" >&nbsp;
+### 🖥️ Frontend Frameworks & Libraries
 
-## Databases
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&style=flat-square" alt="React" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&style=flat-square" alt="Next.js" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white&style=flat-square" alt="Ant Design" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&style=flat-square" alt="Redux" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white&style=flat-square" alt="Material UI" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&style=flat-square" alt="Vite" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black&style=flat-square" alt="Webpack" height="25px"> &nbsp;
+<!--<img src="https://img.shields.io/badge/Zustand-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white&style=flat-square" alt="Zustand" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&style=flat-square" alt="Vue.js" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&style=flat-square" alt="Angular" height="25px"> &nbsp;-->
 
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&style=flat-square" alt="SQLite Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&style=flat-square" alt="SQL Server Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square" alt="MySQL Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat-square" alt="Redis Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL Badge" height="25px"> &nbsp;
+### ⚙️ Backend Technologies
 
-## Tools & Platforms
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&style=flat-square" alt="Node.js" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&style=flat-square" alt="Express.js" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&style=flat-square" alt="NestJS" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat-square" alt="Spring" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101&style=flat-square" alt="Socket.io" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white&style=flat-square" alt="WebSocket" height="25px"> &nbsp; 🆕
+<!--<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&style=flat-square" alt=".NET" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&style=flat-square" alt="Django" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&style=flat-square" alt="Flask" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=flat-square" alt="GraphQL" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql&style=flat-square" alt="Apollo GraphQL" height="25px"> &nbsp;-->
 
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&style=plastic" alt="WebStorm Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=flat-square" alt="Docker Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&style=flat-square" alt="Firebase Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat-square" alt="Linux Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=flat-square" alt="Android Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&style=flat-square" alt="Visual Studio Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&style=flat-square" alt=".NET Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white&style=flat-square" alt="Vim Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat-square" alt="VS Code Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/DBeaver-1B1B1B?style=for-the-badge&logo=dbeaver&logoColor=white&style=flat-square" alt="DBeaver Badge" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="Git" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" title="Bootstrap" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/DataGrip-282C34?logo=datagrip&logoColor=20C994" title="DataGrip" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/XAMPP-282C34?logo=xampp&logoColor=FB7A24" title="XAMPP" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/PyCharm-1F6FEB?logo=pycharm&logoColor=FFD700" title="PyCharm" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=F7941E" title="Eclipse" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" title="Node.js" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&style=flat-square" alt="Postman Badge" height="25px"> &nbsp;
+### 🗃️ Databases & ORMs
+
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&style=flat-square" alt="SQLite" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square" alt="MySQL" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=flat-square" alt="Redis" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&style=flat-square" alt="Firebase" height="25px"> &nbsp;
+<!-- <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&style=flat-square" alt="Prisma" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/TypeORM-FE0909?style=for-the-badge&logo=typeorm&logoColor=white&style=flat-square" alt="TypeORM" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white&style=flat-square" alt="Sequelize" height="25px"> &nbsp; -->
+
+
+### 🛠️ Development Tools
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat-square" alt="VS Code" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&style=flat-square" alt="Visual Studio" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white&style=flat-square" alt="WebStorm" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&style=flat-square" alt="PyCharm" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&style=flat-square" alt="Eclipse" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white&style=flat-square" alt="DataGrip" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/DBeaver-1B1B1B?style=for-the-badge&logo=dbeaver&logoColor=white&style=flat-square" alt="DBeaver" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white&style=flat-square" alt="Vim" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=flat-square" alt="Git" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&style=flat-square" alt="GitLab" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=flat-square" alt="Postman" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=flat-square" alt="Docker" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=flat-square" alt="Linux" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&style=flat-square" alt="XAMPP" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white&style=flat-square" alt="ESLint" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E&style=flat-square" alt="Prettier" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&style=flat-square" alt="Android" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&style=flat-square" alt="IntelliJ" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&style=flat-square" alt="npm" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&style=flat-square" alt="Yarn" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&style=flat-square" alt="Swagger" height="25px"> &nbsp;
+
+<!-- <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white&style=flat-square" alt="Jest" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e&style=flat-square" alt="Cypress" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white&style=flat-square" alt="NGINX" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white&style=flat-square" alt="Jenkins" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions" height="25px"> &nbsp; -->
+
+
  
 ## Blogs
 
