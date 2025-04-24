@@ -73,7 +73,7 @@ Hello!, I'm Truong Ai Nga, a passionate front-end developer who loves crafting b
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&style=flat-square" alt="NestJS" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&style=flat-square" alt="Spring" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101&style=flat-square" alt="Socket.io" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white&style=flat-square" alt="WebSocket" height="25px"> &nbsp; 🆕
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white&style=flat-square" alt="WebSocket" height="25px"> &nbsp;
 <!--<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&style=flat-square" alt=".NET" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&style=flat-square" alt="Django" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&style=flat-square" alt="Flask" height="25px"> &nbsp;
@@ -135,38 +135,56 @@ Hello!, I'm Truong Ai Nga, a passionate front-end developer who loves crafting b
 ## 📂 Featured Projects
 
 <div align="center">
- <a href="https://github.com/AiNga04/movie-zone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=movie-zone&theme=synthwave&title_color=FA70F8&text_color=FFFFFF&icon_color=F6E05E&bg_color=2D2A55&border_color=FA70F8&border_radius=15&cache_seconds=3600" alt="Website xem phim với giao diện hiện đại, dễ sử dụng." />
+  <a href="https://github.com/AiNga04/nextjs-mui-ts" style="border: 2px solid #FF5733; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=nextjs-mui-ts&theme=highcontrast&title_color=FF5733&text_color=FFFFFF&icon_color=FFC300&bg_color=000000&border_color=FF5733&border_radius=15&cache_seconds=3600" alt="Website xem phim với giao diện hiện đại." />
   </a>
-  <a href="https://github.com/AiNga04/bootstrap-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=bootstrap-demo&theme=radical&title_color=FFD700&text_color=FFFFFF&icon_color=1ABC9C&bg_color=0D1117&border_color=FF4500&border_radius=15&cache_seconds=3600" alt="Dự án mẫu sử dụng Bootstrap để tạo giao diện đẹp mắt." />
+  <a href="https://github.com/AiNga04/my-base-react-redux" style="border: 2px solid #33FF57; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=my-base-react-redux&theme=radical&title_color=33FF57&text_color=FFFFFF&icon_color=F39C12&bg_color=141321&border_color=33FF57&border_radius=15&cache_seconds=3600" alt="Dự án React Redux cơ bản." />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AiNga04/movie-zone" style="border: 2px solid #3357FF; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=movie-zone&theme=tokyonight&title_color=3357FF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&border_color=3357FF&border_radius=15&cache_seconds=3600" alt="Movie Zone - Web xem phim." />
+  </a>
+  <a href="https://github.com/AiNga04/bootstrap-demo" style="border: 2px solid #FF33A1; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=bootstrap-demo&theme=cobalt&title_color=FF33A1&text_color=FFFFFF&icon_color=1ABC9C&bg_color=002240&border_color=FF33A1&border_radius=15&cache_seconds=3600" alt="Demo Bootstrap." />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AiNga04/NodeProject" style="border: 2px solid #FFD700; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=NodeProject&theme=merko&title_color=FFD700&text_color=FFFFFF&icon_color=2ECC71&bg_color=1B1F23&border_color=FFD700&border_radius=15&cache_seconds=3600" alt="Node.js Project." />
+  </a>
+  <a href="https://github.com/AiNga04/Ecommerce" style="border: 2px solid #00CED1; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=Ecommerce&theme=dracula&title_color=00CED1&text_color=FFFFFF&icon_color=E67E22&bg_color=282A36&border_color=00CED1&border_radius=15&cache_seconds=3600" alt="Trang thương mại điện tử." />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-<a href="https://github.com/AiNga04/9_aiNgaShop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=9_aiNgaShop&theme=merko&title_color=4CAF50&text_color=FFFFFF&icon_color=F1C40F&bg_color=1B1F23&border_color=4CAF50&border_radius=15&cache_seconds=3600" alt="Trang web bán điện thoại hiện đại, giao diện đẹp mắt." />
+  <a href="https://github.com/AiNga04/9_aiNgaShop" style="border: 2px solid #4CAF50; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=9_aiNgaShop&theme=gruvbox&title_color=4CAF50&text_color=FFFFFF&icon_color=F1C40F&bg_color=282828&border_color=4CAF50&border_radius=15&cache_seconds=3600" alt="Shop điện thoại." />
   </a>
-  <a href="https://github.com/AiNga04/profile-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile-2&theme=gruvbox&title_color=E74C3C&text_color=FFFFFF&icon_color=F39C12&bg_color=282828&border_color=E74C3C&border_radius=15&cache_seconds=3600" alt="Ứng dụng ngân hàng với tính năng bảo mật cao." />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/AiNga04/profile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile&theme=tokyonight&title_color=79C0FF&text_color=FFFFFF&icon_color=3498DB&bg_color=0D1117&border_color=79C0FF&border_radius=15&cache_seconds=3600" alt="Website giới thiệu cá nhân với phong cách hiện đại." />
-  </a>
- <a href="https://github.com/AiNga04/6_Figma">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=6_Figma&theme=cobalt&title_color=FF69B4&text_color=FFFFFF&icon_color=00FFFF&bg_color=002240&border_color=FF69B4&border_radius=15&cache_seconds=3600" alt="Xây dựng giao diện từ Figma với phong cách sáng tạo." />
+  <a href="https://github.com/AiNga04/profile-2" style="border: 2px solid #E74C3C; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile-2&theme=onedark&title_color=E74C3C&text_color=FFFFFF&icon_color=F39C12&bg_color=1E1E1E&border_color=E74C3C&border_radius=15&cache_seconds=3600" alt="Ứng dụng ngân hàng." />
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/AiNga04/7_Figma-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=7_Figma-3&theme=synthwave&title_color=FA70F8&text_color=EAECEE&icon_color=F6401E&bg_color=2D2A55&border_color=FA70F8&border_radius=15&cache_seconds=3600" alt="Dự án giao diện từ thiết kế Figma hiện đại." />
+  <a href="https://github.com/AiNga04/profile" style="border: 2px solid #79C0FF; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=profile&theme=vue-dark&title_color=79C0FF&text_color=FFFFFF&icon_color=3498DB&bg_color=2C3E50&border_color=79C0FF&border_radius=15&cache_seconds=3600" alt="Website giới thiệu bản thân." />
   </a>
-   <a href="https://github.com/AiNga04/5_BankingApps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=5_BankingApps&theme=gruvbox&title_color=E74C3C&text_color=FFFFFF&icon_color=F39C12&bg_color=282828&border_color=E74C3C&border_radius=15&cache_seconds=3600" alt="Ứng dụng ngân hàng với tính năng bảo mật cao." />
+  <a href="https://github.com/AiNga04/6_Figma" style="border: 2px solid #FF69B4; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=6_Figma&theme=bear&title_color=FF69B4&text_color=FFFFFF&icon_color=00FFFF&bg_color=1F1F1F&border_color=FF69B4&border_radius=15&cache_seconds=3600" alt="Thiết kế từ Figma." />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/AiNga04/7_Figma-3" style="border: 2px solid #FA70F8; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=7_Figma-3&theme=synthwave&title_color=FA70F8&text_color=EAECEE&icon_color=F6401E&bg_color=2D2A55&border_color=FA70F8&border_radius=15&cache_seconds=3600" alt="Figma UI hiện đại." />
+  </a>
+  <a href="https://github.com/AiNga04/5_BankingApps" style="border: 2px solid #FFA500; border-radius: 15px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AiNga04&repo=5_BankingApps&theme=monokai&title_color=FFA500&text_color=FFFFFF&icon_color=F39C12&bg_color=2D2A2E&border_color=FFA500&border_radius=15&cache_seconds=3600" alt="App ngân hàng bảo mật cao." />
   </a>
 </div>
 
