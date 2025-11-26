@@ -84,15 +84,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AiNga04&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="AiNga04" />
-</p>
-
-<p align="center"><img
-  src="https://github-readme-stats.vercel.app/api?username=AiNga04&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
-  alt="mdazfar2" height="170" />
-</p>
-  
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiNga04&theme=dark&hide_border=false" alt="AiNga04" />
 </p>
 
