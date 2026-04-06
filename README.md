@@ -1,9 +1,11 @@
 <!-- Banner động -->
+
 [![Welcome Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260406T013028Z&X-Amz-Expires=300&X-Amz-Signature=ae36f6e4a008cb3067bdd69480cde52763f2705cf962345640583e32c95cb296&X-Amz-SignedHeaders=host)](https://ainga2k4.vercel.app/)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-# 👋 Hello! I'm Trương Ái Nga
 
-## 💻 Web Developer | 📍 Việt Nam
+# 👋 Hello! I'm Trương Ái Nga | Full-stack Web Developer
+
+## 💻 Full-stack Web Developer | ReactJS & Spring Boot Specialist | 📍 Hồ Chí Minh, Việt Nam
 
 <img align="right" src="https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif" width="400"/>
 
@@ -15,52 +17,55 @@
 
 ### 🌱 I'm Currently Learning
 
-* 🔭 ReactJS, NextJS, Tailwind CSS, TypeScript
-* 🔐 Spring Boot, Java Backend
-* 🧩 NodeJS, NestJS
-* 🧪 Fullstack Web Development | Microservices
+- 🔭 ReactJS, NextJS, Tailwind CSS, TypeScript
+- 🔐 Spring Boot, Java Backend
+- 🧩 NodeJS, NestJS
+- 🧪 Fullstack Web Development | Microservices
 
 ### 🎯 Current Goals
 
-* ✅ Sharpen fullstack skills (Frontend + Backend) with modern technologies
-* 🎨 Build and optimize responsive, user-friendly UI/UX
-* 🧠 Master scalable architectures, APIs, and performance optimization
-* 🤝 Seek collaboration on real-world fullstack projects
+- ✅ Sharpen fullstack skills (Frontend + Backend) with modern technologies
+- 🎨 Build and optimize responsive, user-friendly UI/UX
+- 🧠 Master scalable architectures, APIs, and performance optimization
+- 🤝 Seek collaboration on real-world fullstack projects
 
 ### 💼 Role
 
-* 💻 Fullstack Web Developer
+- 💻 Fullstack Web Developer
 
 📫 Liên hệ: **[ainga01012004@gmail.com](mailto:ainga01012004@gmail.com)**
-
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-square" alt="Java" height="25px"> &nbsp;
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square" alt="JavaScript - Programming Language" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&style=flat-square" alt="TypeScript - Typed JavaScript" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-square" alt="Java - Enterprise Development" height="25px"> &nbsp;
 
 ### 🌐 Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&style=flat-square" alt="React" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/React Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=flat-square" alt="React Hooks" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&style=flat-square" alt="Next.js" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind CSS" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat-square" alt="shadcn/ui" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white&style=flat-square" alt="SCSS" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white&style=flat-square" alt="Ant Design" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&style=flat-square" alt="Redux" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&style=flat-square" alt="Axios" height="25px"> &nbsp;
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&style=flat-square" alt="ReactJS - Frontend Library" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/React Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=flat-square" alt="React Hooks - Functional Components" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&style=flat-square" alt="Next.js - React Framework" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind CSS - Utility-First CSS" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=tailwind-css&logoColor=white&style=flat-square" alt="shadcn/ui - Component Library" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white&style=flat-square" alt="SCSS - CSS Preprocessor" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white&style=flat-square" alt="Ant Design - Component Library" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap - CSS Framework" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&style=flat-square" alt="Redux - State Management" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&style=flat-square" alt="Axios - HTTP Client" height="25px"> &nbsp;
 
 ### 🧩 Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&style=flat-square" alt="Node.js" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&style=flat-square" alt="NestJS" height="25px"> &nbsp;
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot" height="25px"> &nbsp;
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&style=flat-square" alt="NodeJS - Runtime Environment" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&style=flat-square" alt="NestJS - Node Framework" height="25px"> &nbsp;
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&style=flat-square" alt="Spring Boot - Java Framework" height="25px"> &nbsp;
 
 ### 🗃️ Database & Cloud
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square" alt="MySQL" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" height="25px"> &nbsp;
@@ -68,11 +73,13 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&style=flat-square" alt="Firebase" height="25px"> &nbsp;
 
 ### ⚡ APIs & Realtime
+
 <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=flat-square" alt="REST API" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&style=flat-square" alt="JSON" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white&style=flat-square" alt="WebSocket" height="25px"> &nbsp;
 
 ### 🛠️ Tools & DevOps
+
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=flat-square" alt="Figma" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat-square" alt="VS Code" height="25px"> &nbsp;
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&style=flat-square" alt="Yarn" height="25px"> &nbsp;
@@ -128,8 +135,19 @@
 </p>
 
 > 💬 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas 💡
+
 <p align="center">
   <a href="https://ainga2k4.vercel.app/">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&color=9B59B6&center=true&vCenter=true&width=500&lines=🌐+Visit+My+Portfolio;🚀+Check+Out+My+Projects;💻+Fullstack+Web+Developer" />
   </a>
 </p>
+
+<!-- SEO Metadata and Keywords (Hidden) -->
+<!--
+Keywords:
+Trương Ái Nga, Trương Ái Nga Developer, Nga Truong Fullstack, Web Developer Vietnam,
+Full-stack Developer, Backend Developer, Frontend Developer, ReactJS Developer,
+NextJS Developer, Spring Boot Developer, Java Developer, JavaScript, TypeScript,
+NodeJS, NestJS, MySQL, PostgreSQL, MongoDB, UI/UX Design Figma, Portfolio Online,
+Ho Chi Minh City, Freelance Web Developer, Job Seeker.
+-->
