@@ -1,6 +1,6 @@
 <!-- Banner động -->
-[![Welcome Banner](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/AiNga04)
-
+[![Welcome Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260406T013028Z&X-Amz-Expires=300&X-Amz-Signature=ae36f6e4a008cb3067bdd69480cde52763f2705cf962345640583e32c95cb296&X-Amz-SignedHeaders=host)](https://github.com/AiNga04)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 # 👋 Hello! I'm Trương Ái Nga
 
 ## 💻 Web Developer | 📍 Việt Nam
@@ -88,7 +88,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AiNga04&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiNga04&theme=dark&hide_border=false" alt="AiNga04" />
@@ -105,15 +105,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AiNga04&theme=dracula"/>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AiNga04&theme=radical&column=4&margin-w=10&margin-h=10"/>
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
@@ -121,9 +115,21 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nga-tr%C6%B0%C6%A1ng-bb62202ab/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/profile.php?id=100055585185477)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ainga_76/profilecard/?igsh=cDY2N2RkNncycjZt)
-[![Profile](https://img.shields.io/badge/Profile-4CAF50?style=for-the-badge&logo=about.me&logoColor=white&style=flat-square)](https://ainga04.github.io/10_Profile/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nga-tr%C6%B0%C6%A1ng-bb62202ab/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="30%" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100055585185477">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30%" />
+  </a>
+  <a href="https://www.instagram.com/ainga_76/profilecard/?igsh=cDY2N2RkNncycjZt">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="30%" />
+  </a>
+</p>
 
-> 💬 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas  💡
+> 💬 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas 💡
+<p align="center">
+  <a href="https://ainga04.github.io/10_Profile/">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=9B59B6&center=true&vCenter=true&width=500&lines=🌐+Visit+My+Portfolio;🚀+Check+Out+My+Projects;💻+Fullstack+Web+Developer" />
+  </a>
+</p>
