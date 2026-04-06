@@ -3,7 +3,7 @@
 
 # 👋 Hello! I'm Trương Ái Nga
 
-## 💻 Front-end Developer | 📍 Việt Nam
+## 💻 Web Developer | 📍 Việt Nam
 
 <img align="right" src="https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif" width="400"/>
 
@@ -14,18 +14,25 @@
 ---
 
 ### 🌱 I'm Currently Learning
-- 🔭 ReactJS, NextJS, Tailwind CSS, TypeScript
-- 🔐 Spring Boot, Java Backend
-- 🧩 NodeJS, NestJS
-- 🧪 Fullstack Web Dev | Microservices
+
+* 🔭 ReactJS, NextJS, Tailwind CSS, TypeScript
+* 🔐 Spring Boot, Java Backend
+* 🧩 NodeJS, NestJS
+* 🧪 Fullstack Web Development | Microservices
 
 ### 🎯 Current Goals
-- ✅ Sharpen skills with React, Next.js, Tailwind CSS, and TypeScript
-- 🎨 Optimize UI/UX for modern, responsive web interfaces
-- 🧠 Master component-based architecture and performance optimization
-- 🤝 Seek collaboration on real-world front-end projects
 
-📫 Liên hệ: **ainga01012004@gmail.com**
+* ✅ Sharpen fullstack skills (Frontend + Backend) with modern technologies
+* 🎨 Build and optimize responsive, user-friendly UI/UX
+* 🧠 Master scalable architectures, APIs, and performance optimization
+* 🤝 Seek collaboration on real-world fullstack projects
+
+### 💼 Role
+
+* 💻 Fullstack Web Developer
+
+📫 Liên hệ: **[ainga01012004@gmail.com](mailto:ainga01012004@gmail.com)**
+
 
 ---
 
