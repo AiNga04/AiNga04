@@ -1,5 +1,5 @@
 <!-- Banner động -->
-[![Welcome Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260406T013028Z&X-Amz-Expires=300&X-Amz-Signature=ae36f6e4a008cb3067bdd69480cde52763f2705cf962345640583e32c95cb296&X-Amz-SignedHeaders=host)](https://github.com/AiNga04)
+[![Welcome Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260406T013028Z&X-Amz-Expires=300&X-Amz-Signature=ae36f6e4a008cb3067bdd69480cde52763f2705cf962345640583e32c95cb296&X-Amz-SignedHeaders=host)](https://ainga2k4.vercel.app/)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 # 👋 Hello! I'm Trương Ái Nga
 
@@ -129,7 +129,7 @@
 
 > 💬 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas 💡
 <p align="center">
-  <a href="https://ainga04.github.io/10_Profile/">
+  <a href="https://ainga2k4.vercel.app/">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&color=9B59B6&center=true&vCenter=true&width=500&lines=🌐+Visit+My+Portfolio;🚀+Check+Out+My+Projects;💻+Fullstack+Web+Developer" />
   </a>
 </p>
